@@ -4,7 +4,7 @@ Testing out johnny five and Arduino Uno
 Developed using node version 8.7.0
 
 # Prerequisites
-- `npm install`
+Run `npm install` to get all necessary dependencies.
 
 ## Blink
 Only requires upload of StandardFirmata.
